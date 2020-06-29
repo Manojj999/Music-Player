@@ -1,3 +1,3 @@
-### Music-Player
+# Music Player
 ![Image](Music-player.png)
 
