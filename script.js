@@ -43,6 +43,11 @@ const songs = [
     displayName: 'Sultan-KGF',
     artist: 'my Favorite',
   },
+  {
+    name: 'wishList',
+    displayName: 'Dino James – Wishlist',
+    artist: 'My Favorite',
+  },
 ];
 
 // Check if Playing
