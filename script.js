@@ -12,41 +12,41 @@ const nextBtn = document.getElementById('next');
 
 // Music
 const songs = [
-  
+
   {
     name: 'Ek-Zindgi',
     displayName: 'Ek Zindgi',
-    artist: 'My Favorite',
+    artist: 'Tanishkaa, Sachin-Jigar',
   },
   {
     name: 'Sage',
     displayName: 'Sage',
-    artist: 'My Favorite',
+    artist: 'Ritviz',
   },
   {
     name: 'Naachne-Ka-Shaunq',
     displayName: 'Naachne Ka Shaunq',
-    artist: 'My Favorite',
+    artist: 'Raftaar, Brodha V',
   },
   {
     name: 'Kudi-Nu-Nachne-De',
     displayName: 'Kudi Nu Nachne De',
-    artist: 'My Favorite',
+    artist: 'Sachin-Jigar',
   },
   {
     name: 'Unstoppable',
     displayName: 'Unstoppable',
-    artist: 'my Favorite',
+    artist: 'Ananya Birla',
   },
   {
     name: 'Sultan-KGF',
     displayName: 'Sultan-KGF',
-    artist: 'my Favorite',
+    artist: 'Ravi Basrur',
   },
   {
     name: 'wishList',
-    displayName: 'Dino James – Wishlist',
-    artist: 'My Favorite',
+    displayName: 'Wishlist',
+    artist: 'Dino James',
   },
 ];
 
