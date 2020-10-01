@@ -52,6 +52,11 @@ const songs = [
     displayName: 'Wishlist',
     artist: 'Dino James',
   },
+  {
+    name: 'alone',
+    displayName: 'Alone',
+    artist: 'Marshmello',
+  },
 ];
 
 
